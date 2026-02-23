@@ -35,7 +35,7 @@ The dataset was loaded into Databricks as a Spark DataFrame. Selected columns �
 * **Bridge Analysis - Material and Design.ipynb** - Python Notebook
 * **Bridge Analysis - Material and Design. html** - exported report for GitHub viewing
 
-## [View live Databricks HTML file on Github](https://thyphan2025.github.io/Bridge-Material-and-Design-Analysis/)
+## [View live Databricks HTML file on GitHub](https://thyphan2025.github.io/Bridge-Material-and-Design-Analysis/)
 
 ## Methods For Data Analysis
 * The dataset was processed in Databricks using Spark, where selected columns were prepared, and text was standardized before further cleaning in a Pandas DataFrame.
@@ -277,7 +277,7 @@ Although **Prestressed Concrete → Stringer/Multi-beam or Girder** has a lower 
 * [Choosing color palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
 * [seaborn.heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 * [ColorBrewer](https://colorbrewer2.org/#type=qualitative&scheme=Paired&n=6)
-* [Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation’s Bridges* (FHWA)](https://www.fhwa.dot.gov/bridge/mtguide.pdf)
+* [Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation’s Bridges (FHWA)](https://www.fhwa.dot.gov/bridge/mtguide.pdf)
 * [InfoBridge](https://infobridge.fhwa.dot.gov/Data)
 * [Fundamental of Association Rule Mining](https://medium.com/image-processing-with-python/fundaments-of-associate-rule-mining-468801ec0a29)
 * [Bridge design: process & considerations](https://fiveable.me/bridge-engineering/unit-2)
