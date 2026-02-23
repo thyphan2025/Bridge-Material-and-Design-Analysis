@@ -274,6 +274,7 @@ Although **Prestressed Concrete → Stringer/Multi-beam or Girder** has a lower 
 ## References:
 * [Choosing color palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
 * [seaborn.heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+* [ColorBrewer](https://colorbrewer2.org/#type=qualitative&scheme=Paired&n=6)
 * [Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation’s Bridges* (FHWA)](https://www.fhwa.dot.gov/bridge/mtguide.pdf)
 * [InfoBridge](https://infobridge.fhwa.dot.gov/Data)
 * [Fundamental of Association Rule Mining](https://medium.com/image-processing-with-python/fundaments-of-associate-rule-mining-468801ec0a29)
