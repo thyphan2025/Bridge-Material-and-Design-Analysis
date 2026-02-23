@@ -33,7 +33,7 @@ The dataset was loaded into Databricks as a Spark DataFrame. Selected columns â€
 ## Project Files
 * **README.md**  - project description and report
 * **Bridge Analysis - Material and Design.ipynb** - Python Notebook
-* **index.html** - exported report for GitHub viewing
+* **index.html** - html code file for GitHub viewing
 
 ## [View live Databricks HTML file on GitHub](https://thyphan2025.github.io/Bridge-Material-and-Design-Analysis/)
 
